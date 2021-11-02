@@ -19,3 +19,11 @@ Link : https://github.com/python-engineer/snake-ai-pytorch
 ### Wall Passing, States Separated and Obstacle Added
 ![Wall Passing, Obstacle and states Separated](/Snake_Game/wall_passing_new_block_and_more_states_separated/game.JPG)
 ![Wall Passing, Obstacle and states Separated](/Snake_Game/wall_passing_new_block_and_more_states_separated/Wall_passing_obstacle_and_more_states_separated.png)
+
+
+## Car Game AI
+
+Car learns to avoid incoming cars using reinforcement learning
+
+![car_game](/Car_Game_AI/car_game.JPG)
+![car_game_AI](/Car_Game_AI/Car_Game_AI.png)
