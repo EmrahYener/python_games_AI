@@ -23,7 +23,7 @@ Link : https://github.com/python-engineer/snake-ai-pytorch
 
 ## Car Game AI
 
-AI learns to avoid incoming cars using reinforcement learning
+AI learns to avoid incoming cars using reinforcement learning. Max score was set to 500 and once it reaches 500 new games starts.
 
 ![car_game](/Car_Game_AI/car_game.JPG)
 ![car_game_AI](/Car_Game_AI/Car_Game_AI.png)
