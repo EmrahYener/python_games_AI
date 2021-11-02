@@ -23,7 +23,7 @@ Link : https://github.com/python-engineer/snake-ai-pytorch
 
 ## Car Game AI
 
-Car learns to avoid incoming cars using reinforcement learning
+AI learns to avoid incoming cars using reinforcement learning
 
 ![car_game](/Car_Game_AI/car_game.JPG)
 ![car_game_AI](/Car_Game_AI/Car_Game_AI.png)
